@@ -1,8 +1,7 @@
-# Cheque Validator service
-
-## System Design
-
+# System Design
 ![System Design](./docs/images/SystemDesign.svg)
+
+## Cheque Validator service
 
 ### API : POST  /api/v1/validate
 Request body :
